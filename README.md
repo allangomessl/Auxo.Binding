@@ -1,4 +1,4 @@
-# Data Binding Libary
+# Data Binding Libary 0.0.1-pre-alpha
 
 * Dependencies
   * Auxo.Core
